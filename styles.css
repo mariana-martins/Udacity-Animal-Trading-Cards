@@ -1,0 +1,33 @@
+#animal-card{
+    border: solid 1px #cccccc;
+    -webkit-box-shadow: 10px 9px 3px -1px rgba(230,230,230,0.57);
+    -moz-box-shadow: 10px 9px 3px -1px rgba(230,230,230,0.57);
+    box-shadow: 10px 9px 3px -1px rgba(230,230,230,0.57);
+    margin: 20px 10px 20px 10px;
+    padding: 10px;
+    width: 300px;
+}
+
+.fact{
+    font-style: italic;
+}
+
+span{
+    font-weight: bold;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0px;
+}
+
+#details{
+    border: solid 1px #cccccc;
+    padding: 3px 10px 3px 10px;
+}
+
+#animal-img{
+    padding-bottom: 15px;
+    padding-top: 5px;
+}
+
